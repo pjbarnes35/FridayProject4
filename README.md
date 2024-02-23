@@ -19,3 +19,14 @@ This code does the following:
 -4 If the user wants numbers, it generates six random numbers according to the PowerBall rules.
 -5 Prints the generated numbers with the required spacing.
 -6 Says goodbye to the user.
+
+# Quiz Bowl Notes
+This program does the following:
+
+-1 Defines a dictionary questions with trivia questions as keys and their corresponding answers as values.
+-2 Defines a function run_quiz that runs the quiz using the provided questions.
+-3 Welcomes the user to the quiz.
+-4 Shuffles the questions to add randomness.
+-5 Iterates through each question, displaying it to the user and prompting for their answer.
+-6 Checks if the user's answer matches the correct answer and provides feedback.
+-7 Displays the quiz results, showing the number of correct answers out of the total questions.
